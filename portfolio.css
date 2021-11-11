@@ -1,0 +1,57 @@
+
+body {
+    background-color: black;
+    color:#ecf39e;
+    font-family: 'VT323', monospace;
+    cursor: url(http://www.rw-designer.com/cursor-view/141989.png), auto;
+    cursor: url(http://www.rw-designer.com/cursor-view/141989.png), pointer;
+    
+}
+
+body::-webkit-scrollbar {
+    width: 10px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #4f772d;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: white;    /* color of the scroll thumb */
+    border: 0px;
+  }
+
+.intro {
+    text-align: center;
+}
+
+.intro h3 {
+    font-size: x-large;
+    font-stretch: ultra-expanded;
+    color: #416600;;
+
+}
+.intro h2 {
+    font-size: xx-large;
+    text-shadow: coral;
+    color: #4f772d
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+}
+
+.zoom1:hover {
+    transform: scale(1.035);
+}
+
+.zoom2:hover {
+    transform: scale(1.035);
+}
+
+.zoom3:hover {
+    transform: scale(1.035);
+}
