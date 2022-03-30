@@ -1,1 +1,1 @@
-Front-End web design project for the Introduction to Computer Science class, taken during the Computer Science course, semester of 2021.1 at UFPE. // Projeto na web para cadeira de Introdução a Computação no curso de Ciência da Computação, semestre 2021.1 na UFPE.
+Frojeto na web para cadeira de Introdução a Computação no curso de Ciência da Computação, semestre 2021.2 na UFPE.
